@@ -75,50 +75,54 @@ Always keep in mind:
 - **Prepare before your client meeting and summarize what happens
   after it.** Take the time to do a short *pre-meeting* with your
   teammates to have a common understanding and goals in the meeting,
-  and a short *post-meeting* once the meeting is over.
+  and a short *post-meeting* once the meeting is over
 
 - **Try to validate your team hypothesis.** For example, try to
   propose stuff that is known to work instead of reinventing the
-  wheel.
+  wheel
 
 - **Use what is available to you.** If this is not a new project, ask
   to see Google Analytics data, or any data that the project has
-  available. Make better hypothesis using this.
+  available. Make better hypothesis using this
 
 - **Assume as little as possible.** If you can't validate, it's just a
-  hunch.
+  hunch
 
 - Sometimes, the client doesn't want to let go of a feature they deem
   really important. Try to compromise, try to explain why it is not
   possible. Explain that if that feature makes it into the final
-  vision for the MVP, other features will have to be dropped for now.
+  vision for the MVP, other features will have to be dropped for now
 
 - The whole point of the discovery is to converge on a concrete but
   not final vision for the project. Sometimes, your client will always
   have something more to say, if possible listen, if not, remind them
   that this is a MVP and more time to build other features will always
-  be there afterwards.
+  be there afterwards
 
 - Remind your client there is space for more development after the MVP
   is done. The point of bounding the reach of the MVP is to be able to
   **validate as soon as possible** rather than when multiple months of
-  development have been poured into the wrong hypothesis.
+  development have been poured into the wrong hypothesis
 
-### Mockups
+### Wireframing & Mockups
 
-Mockups are one of the deliverables of the discovery process. It
-should represent a very basic view of the direction the team is taking
-with the project. During the discovery process, mockups should be used
-to aid the delivery of the vision by the team.
+Wireframes & Mockups are one of the deliverables of the discovery process. They are supposed to connect the underlying conceptual structure (or information architecture) to the surface (or visual design) of a website or mobile app. They are visual representations of an interface used to communicate the structure, content, hierarchy, functionality and behavior of that interface to get everyone on the same page.
+
+> **Wireframes** Low-fidelity, bare-bones blueprints, usually represented with gray boxes and placeholders. It lays the foundation.
+
+> **Mockup** Typically a mid- to high-fidelity representation of the product’s appearance. Adds visual richness.
+
+A mid- to high-fidelity mockup gives the developer a clear picture of the elements that they will need to code, and get a more tangible grasp of the site’s functionality.
 
 Always keep in mind:
 
-- While simple, mockups should be sufficient to represent the vision
-  the project will take. Don't overlook details, but be pragmatic
-  about them.
+- While simple, mockups should be sufficient enough to represent the vision the project will take. Don't overlook details, but be pragmatic about them
 
-- Currently, we use [Balsamiq Mockups](https://balsamiq.com/) to build
-  mockups.
+- Wireframes and mid-fidelity mockups are not supposed to represent the visual design, contact graphic elements, or convey the brand or identity, let this point be clear to the client
+
+- Agree on the direction with the clients
+
+- Currently, we use [Balsamiq Mockups](https://balsamiq.com/) to build mockups or wireframes
 
 ### Estimations
 
